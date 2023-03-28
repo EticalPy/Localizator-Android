@@ -78,6 +78,7 @@ Conceptul din spatele lui Localizator Android este simplu: o pagină falsă care
 git clone https://github.com/EticalPy/Localizator-Android.git
 cd Localizator-Android/
 chmod +x install.sh
+chmod +x localizator.py
 ./install.sh
 ```
 
