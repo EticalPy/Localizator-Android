@@ -82,7 +82,7 @@ chmod +x install.sh
 ```
 
 
-In order to run in tunnel mode, install ngrok by running this command in the terminal:
+Pentru a rula în modul tunel, instalați ngrok prin ruland comanda de mai jos în terminal:
 ```bash
 brew install ngrok/ngrok/ngrok
 
