@@ -87,9 +87,13 @@ Pentru a rula în modul tunel, instalați ngrok prin ruland comanda de mai jos �
 brew install ngrok/ngrok/ngrok
 
 ngrok http 8080
+
+
+Alternativa la ngrok:
+ssh -R 80:localhost:8080 nokey@localhost.run
 ````
 
-## Usage
+## Utilizare
 
 ```bash
 python3 localizator.py -h
